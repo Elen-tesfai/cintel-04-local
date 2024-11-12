@@ -49,3 +49,6 @@ pip install -r requirements.txt
  ```bash
 shiny run --reload --launch-browser penguins/app.py
 ```
+### Local Path for Screenshot:
+```bash
+C:\Users\su_te\cintel-04-local\Screenshot 2024-11-11 214616.png
