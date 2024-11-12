@@ -51,4 +51,4 @@ shiny run --reload --launch-browser penguins/app.py
 ```
 ### Local Path for Screenshot:
 ```bash
-C:\Users\su_te\cintel-04-local\Screenshot 2024-11-11 214616.png
+![Penguin Dataset Screenshot](assets/images/Screenshot%202024-11-11%20214616.png)
