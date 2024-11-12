@@ -50,4 +50,4 @@ pip install -r requirements.txt
 shiny run --reload --launch-browser penguins/app.py
 ```
 ### Local Path for Screenshot:
-![Penguin Dataset Screenshot](assets/images/Screenshot%202024-11-11%20214616.png)
+![Penguin Dataset Screenshot](Screenshot%202024-11-11%20214616.png)
