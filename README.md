@@ -13,7 +13,6 @@ The Popper's Penguin Dashboard showcases the use of Shiny for building reactive 
 - **Interactive Dropdown Menu**: Users can select a column from the dataset to display.
 - **Species Filter**: Checkbox group to filter the penguins by species.
 - **Reactive Calculations**: The app re-renders charts and tables as filters or selections change.
-- **Clean and Simple UI**: The app features a user-friendly interface for data interaction.
 
 ## How to Run Locally
 
